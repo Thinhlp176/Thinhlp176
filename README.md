@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Phuoc Thinh Le </h1>
 <h3 align="center">An enthusiastic programmer hailing from Ho Chi Minh City, currently pursuing a specialized degree in SAP at FPT University.</h3>
 
-- 👀 ** I’m interested in exploring new things over a long period of time. **
+- 👀 <b> I’m interested in exploring new things over a long period of time. </b>
   
 - 📫 How to reach me **phuocthinh17623@gmail.com / thinhlpse172313@fpt.edu.vn**
 

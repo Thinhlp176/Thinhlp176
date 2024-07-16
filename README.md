@@ -2,7 +2,7 @@
 <h3 align="center">An enthusiastic programmer hailing from Ho Chi Minh City, currently pursuing a specialized degree in SAP at FPT University.</h3>
 
 - 👀 ** I’m interested in exploring new things over a long period of time. **
-- 
+  
 - 📫 How to reach me **phuocthinh17623@gmail.com / thinhlpse172313@fpt.edu.vn**
 
 - ⚡ Fun fact **I am a friendly person who may be a bit shy at first, but I quickly adapt and get along with others. :v**
